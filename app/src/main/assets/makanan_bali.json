@@ -5,10 +5,10 @@
       "kategori": "Makanan",
       "asal": "Gilimanuk",
       "bahan": "Ayam, jeruk nipis, daun singkong, batang serai, minyak, kaldu ayam, daun jeruk.",
-
       "deskripsi": "Betutu adalah lauk yang terbuat dari ayam atau bebek yang utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Betutu ini telah dikenal di seluruh kabupaten di Bali. Betutu merupakan jenis makanan tradisional daerah Bali yang bahan mentahnya berupa karkas utuh itik dan ayam.",
-      "review":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" ,
-      "img": "https://i.ibb.co/KmWhKtv/ayam-betutu.jpg"
+      "review":"Ayam Betutu adalah salah satu masakan yang terdiri dari Ayam Kampungnya, pedasnya, dan segala aksesorisnya, dari sambal Matah, sampai sayurannya.  dagingnya lembut sekali. Teksturnya enak dikunyah. Ada ledakan rasa dalam setiap gigitannya. Rasa cabai, kemiri, bawang, serai, lengkuas, pala, kunyit, daun jeruk, jahe, kencur, ketumbar, gula, garam,apalagi bumbunya. Rempahnya benar-benar meresap kedalam dagingnya. Kuahnya pun sedap, sari pati bumbu juga ada didalamnya. " ,
+      "img": "https://i.ibb.co/KmWhKtv/ayam-betutu.jpg",
+      "lokasi":"Jln Tukad Balian No 17A"
     },
     {
       "nama": "Babi Guling",
@@ -16,17 +16,19 @@
       "asal": "Badung",
       "bahan": "Daging babi, minyak goreng, bawang putih, kecap asin, ketumbar bubuk, garam, bumbu bubuk ngohiong, gula pasir, merica bubuk.",
       "deskripsi": "Babi guling adalah sejenis makanan yang terbuat dari anak babi betina atau jantan yang perutnya diisikan dengan bumbu dan sayuran seperti daun ketela pohon dan lalu dipanggang sambil diputar-putar sampai matang dengan ditandai dengan perubahan warna kulit menjadi kecokelatan dan renyah.",
-      "review":"-" ,
-      "img": "https://i.ibb.co/XCTyxhB/babi-guling.jpg"
+      "review":"Babi guling mempunyai rasa rempah-rempah yang sangat kuat, dan biasanya nasinya disiram dengan kuah seperti kuah kari dengan rasa gurih dan sedikit manis. Seporsi biasanya terdiri dari babi goreng, sayur lawar, hati goreng, kulit babi, usus babi, dan kukus darah babi" ,
+      "img": "https://i.ibb.co/XCTyxhB/babi-guling.jpg",
+      "lokasi":"Jln Sading Badung"
     },
     {
       "nama": "Kue Laklak",
       "kategori": "Makanan",
       "asal": "Badung",
-      "bahan": "Daging babi, minyak goreng, bawang putih, kecap asin, ketumbar bubuk, garam, bumbu bubuk ngohiong, gula pasir, merica bubuk.",
+      "bahan": "Tepung beras, Tepung Ketan, Air Daun Suji, Garam, Kelapa Parut, Air, Gula Merah, Daun Pandan",
       "deskripsi": "Kue Laklak atau yang biasa disebut Jaje Laklak dalam masyarakat bali, adalah kue mungil yang berbentuk lingkaran berdiameter 3 cm, dan memiliki rasa yang gak pernah ada matinya. Sangat pas sebagai teman duduk disaat pagi hari, ditambah dengan hangatnya sajian kopi Bali.",
-      "review":"-" ,
-      "img": "https://i.ibb.co/K0snTJC/laklak-bali.jpg"
+      "review":"Kue Laklak  berwarna putih dan ada juga yang berwarna hijau. Warna hijau didapatkan dari perwarnaan alami berasal dari air daun pandan yang kemudian dicampurkan di adonan.  kue mungil yang berbentuk lingkaran berdiameter 3 cm, dan memiliki rasa yang gak pernah ada matinya. Sangat pas sebagai teman duduk disaat pagi hari, ditambah dengan hangatnya sajian kopi Bali. Namun, apabila tidak sempat menyantapnya ketika sarapan, jangan khawatir, karena bentuknya yang kecil dan mungil, maka Jaje Laklak ini sangat mudah dibawa kemana saja." ,
+      "img": "https://i.ibb.co/K0snTJC/laklak-bali.jpg",
+      "lokasi":"Jln Kresna Darmasaba"
     },
     {
       "nama": "Lawar",
@@ -34,8 +36,9 @@
       "asal": "Karangasem",
       "bahan": "Ayam, kacang panjang, nangka muda, kelapa parut, jeruk limau, Garam, gula, dan penyedap, bawang goreng.",
       "deskripsi": "Lawar adalah masakan berupa campuran sayur-sayuran dan daging cincang yang dibumbui secara merata yang berasal dari Bali. Makanan ini lazim disajikan dalam rumah tangga di Bali atau dijual secara luas di rumah-rumah makan dengan sebutan lawar Bali.",
-      "review":"-" ,
-      "img": "https://i.ibb.co/Y3Bs0Dc/lawar-bali.jpg"
+      "review":"Makanan ini menggunakan  darah hewan dimana darah tersebut akan dicampurkan ke bumbu-bumbu tertentu. Biasanya darah yang digunakan adalah darah yang setengah matang untuk menambah kelezatan makanan tersebut. Lawar biasanya disajikan di pesta adat Bali dan dirumah tangga masyarakat Bali. Lawar adalah campuran antara sayur-sayuran, bumbu khas Bali, Kelapa, Terasi dan daging cincang.Lawar Bali memiliki  citarasa yang khusus dimana terdapat rasa manis, asin, pahit, pedas, amis, asam dan bau terasi. Karena Lawar Bali memiliki simbol yang sangat mendalam biasanya Lawar Bali, digunakan untuk acara pengangkatan Gubernur/Kepala daerah supaya orang yang jadi pemimpin tersebut bisa memaksimalkan potensi-potensi rakyat yang berbeda-beda sehingga menghasilkan suasana yang harmonis dan seimbang." ,
+      "img": "https://i.ibb.co/Y3Bs0Dc/lawar-bali.jpg",
+      "lokasi":"Jln Sidemen karangasem"
     },
     {
       "nama": "Sambal Matah",
@@ -43,8 +46,9 @@
       "asal": "Klungkung",
       "bahan": "Bawang merah, cabai rawit, serai, Daun Jeruk, jeruk nipis, garam, merica, gula, terasi, minyak.",
       "deskripsi": "Sambal matah adalah sambal tradisional Bali yang dapat ditemukan di seluruh daerah di Provinsi Bali. matah memiliki arti mentah. Sambal matah merupakan sambal yang berbahan mentah tanpa digerus. Bahan-bahan sambal matah yaitu: bawang merah, cabai merah, terasi, garam, sereh, jeruk lemo dan minyak kelapa.",
-      "review":"-" ,
-      "img": "https://i.ibb.co/jh2h4fX/sambal-matah.jpg"
+      "review":"Sambel matah adalah bumbu tradisional Bali yang dapat ditemukan di seluruh daerah di Provinsi Bali. Sambel berarti sambal, dan matah memiliki arti mentah. Sambel matah merupakan sambal yang berbahan mentah tanpa digerus (diulek). Bahan-bahan sambel matah yaitu: bawang merah, bawang putih, cabai merah, terasi, garam, sereh, jeruk lemo dan minyak kelapa. Bawang merah yang menjadi bahan utama sambel matah memiliki khasiat yang sangat bagus bagi kesehatan kita apabila dikonsumsi mentah, antara lain: kandungan sulfur dalam bawang merah dapat mencegah terjadinya kanker, menurunkan kadar kolesterol sehingga mengurangi resiko serangan jantung, meningkatkan produksi insulin dalam tubuh sehingga dapat mengontrol diabetes, dll. " ,
+      "img": "https://i.ibb.co/jh2h4fX/sambal-matah.jpg",
+      "lokasi":"Jln Rama No 8"
     },
     {
       "nama": "Sate Lilit",
@@ -52,8 +56,9 @@
       "asal": "Gianyar",
       "bahan": "Daging ayam cincang, minyak sayur, bawang merah, bawang putih, cabai, jahe, lengkuas, kunyit, pala bubuk",
       "deskripsi": "Sate Lilit adalah sebuah varian sate asal Bali. Sate ini terbuat dari daging babi, ikan, ayam, daging sapi, atau bahkan kura-kura yang dicincang, kemudian dicampur dengan parutan kelapa, santan, jeruk nipis, bawang merah, dan merica..",
-      "review":"-" ,
-      "img": "https://i.ibb.co/8N4T3mW/sate.jpg"
+      "review":"Sate ini memiliki keunikan pada cara pembuatannya. Bila biasanya sate itu berupa potongan daging yang ditusuk, namun pada hidangan ini daging digerus kemudian dililitkan pada batang bambu atau serai. Bumbu yang digunakan untuk membuat sate lilit ini pun juga berbeda. Sajian ini memiliki cita rasa pedas, manis, dan gurih. Berbeda dengans sate pada umumnya yang menggunakan bumbu kacang, sate lilit menggunakan bumbu yang terdiri dari bawang merah dan bawang putih, serai, dan daun jeruk." ,
+      "img": "https://i.ibb.co/8N4T3mW/sate.jpg",
+      "lokasi":"Jln Ida Bagus Mantra No 1"
     },
     {
       "nama": "Seromboton",
@@ -61,8 +66,9 @@
       "asal": "Klungkung",
       "bahan": "Kacang panjang, terong, kangkung, kecambah, kelapa parut, kencur, bawang putih, cabai rawit, terasi, garam, jeruk limau, minyak kelapa.",
       "deskripsi": "Serombotan adalah sayuran khas Kabupaten Klungkung, Bali, terbuat dari sayur buah botor muda atau kecipir, terong bulat, pare, tauge, kubis yang dimasak setengah matang. kemudian diberi bumbu disebut kalas yang terdiri dari santan yang diberi tumbukan kunyit, lengkuas, bawang merah dan bawang putih, ketumbar dan sedikit kencur.",
-      "review":"-" ,
-      "img": "https://i.ibb.co/GRDdpjx/serombotan.jpg"
+      "review":"Sebagai salah satu makanan berbahan sayuran, Serombotan benar-benar menggunakan berbagai macam sayuran seperti kangkung, tauge, kacang panjang, bayam, terong bulat, dan pare. Beberapa sayuran sudah direbus hingga matang namun beberapa disajikan secara mentah seperti terong bulat hanya diiris tipis saja. Karena menggunakan berbagai macam sayuran, Serombotan ini mempunyai cita rasa segar dengan berbagai tekstur sayuran yang berbeda. Sama dengan pecel, Serombotan ini disajikan dengan nasi putih. Selain dengan nasi, Serombotan juga disajikan dengan tipat atau ketupat yang dibungkus dengan janur namun dengan bentuk yang memanjang seperti lontong" ,
+      "img": "https://i.ibb.co/GRDdpjx/serombotan.jpg",
+      "lokasi": "Jln Uluwatu No 11"
     },
     {
       "nama": "Tipat Cantok",
@@ -70,8 +76,9 @@
       "asal": "Klungkung",
       "bahan": "Kacang panjang, terong, kangkung, kecambah, kelapa parut, kencur, bawang putih, cabai rawit, terasi, garam, jeruk limau, minyak kelapa.",
       "deskripsi": "Tipat cantok merupakan salah satu makanan khas Bali yang terbuat dari sayuran rebus dan ketupat serta disajikan dengan bumbu kacang.",
-      "review":"-" ,
-      "img": "https://i.ibb.co/dQ9FKM8/tipat-cantok.jpg"
+      "review":" Selain keindahan alamnya yang asri, Bali menyimpan beraneka kuliner yang patut dicoba. Salah satunya tipat cantok. Dalam istilah Bali, tipat berarti ketupat, sedangkan cantok artinya diulek dan diaduk dalam cobek.\n\nPenganan khas Bali ini sepintas memang mirip gado-gado. Namun, rasanya tentu berbeda. Terlebih, warga Bali selalu membuat tipat yang dibungkus janur, bukan daun pisang. Maka dari itu, mereka tidak mengenal istilah lontong.\ntaboola mid article\n\nBumbu tipat cantok juga cukup sederhana lho, antara lain kacang tanah, gula merah, bawang putih, cabai, garam, kencur, dan jeruk limau. Untuk isiannya, penjual akan mengiris tipat tipis-tipis dan menambahkan sayuran, seperti kacang panjang, kangkung, dan tauge." ,
+      "img": "https://i.ibb.co/dQ9FKM8/tipat-cantok.jpg",
+      "lokasi":"Jln Merpati No 12"
     },
     {
       "nama": "Tum Babi",
@@ -79,8 +86,9 @@
       "asal": "Denpasar",
       "bahan": "Daging babi, gwtih, daun pisang, penyedap, bawang merah, bawang putih, cabai, daun jeruk, kunyit, lengkuas, ketumbar .",
       "deskripsi": "Tum adalah pepes atau botok khas Bali yang dimasak dengan cara dikukus. Selayaknya pepes, tum juga dibungkus dengan daun pisang.",
-      "review":"-" ,
-      "img": "https://i.ibb.co/PmpPLky/tum-ayam.jpg"
+      "review":"Salah satu makanan khas Bali ada tum. Tum umumnya adalah sumber protein yang dibungkus daun pisang kemudian di kukus. Tum mudah ditemui di kedai nasi babi guling khas Bali, karena bahan yang biasa dipakai orang Bali adalah daging babi." ,
+      "img": "https://i.ibb.co/PmpPLky/tum-ayam.jpg",
+      "lokasi":"Jln Tukad Barito No 15"
     },
     {
       "nama": "Jukut Ares",
@@ -88,8 +96,9 @@
       "asal": "Klungkung",
       "bahan": "Batang pohon pisang, bawang putih, bawang merah, terasi, laos, kunyit, jahe, kencur, daging tetelan dan tulang-tulang.",
       "deskripsi": "Jukut Ares terdiri dari dua buah kata yaitu kata Jukut dan Ares. Pertama kata “Jukut” yang berarti sayuran dan yang kedua kata “Ares” yang berarti batang pohon pisang atau yang biasanya disebut “Gedebong” oleh masyarakat Bali. Jadi, Jukut Ares merupakan sayuran yang berasal dari batang pohon pisang.",
-      "review":"-" ,
-      "img": "https://i.ibb.co/WshWhc5/sayur-ares.jpg"
+      "review":"Ada beberapa hal yang sedikit banyak berpengaruh terhadap kualitas rasa dari jukut ares(sayur batang pisang)khas bali, mulai dari jenis bahan, lalu pemilihan bahan segar, hingga cara membuat dan menyajikannya. Tak perlu pusing kalau mau menyiapkan jukut ares(sayur batang pisang)khas bali enak di mana pun anda berada, karena asal sudah tahu triknya maka hidangan ini dapat jadi suguhan istimewa.\n\nJukut ares atau sup batang pisang batu DI padukan dengan daging entok,makanan tradisi orang bali dari turun temurun hingga sekarang masih DI lestarikan DI ba. Jukut Ares adalah nama salah satu masakan khas Bali. Jukut ares ini merupakan kuliner berkuah dengan rasa unik yang bisa dengan mudah kamu temukan di Pulau." ,
+      "img": "https://i.ibb.co/WshWhc5/sayur-ares.jpg",
+      "lokasi":"Jln Wibisana No 20"
     }
   ]
 }

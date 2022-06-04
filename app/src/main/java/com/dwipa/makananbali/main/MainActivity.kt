@@ -75,6 +75,7 @@ class MainActivity : AppCompatActivity() {
                     dataApi.bahanbaku = jsonObjectData.getString("bahan")
                     dataApi.deskripsi = jsonObjectData.getString("deskripsi")
                     dataApi.review = jsonObjectData.getString("review")
+                    dataApi.lokasi = jsonObjectData.getString("lokasi")
                     modelMain.add(dataApi)
                 }
                 mainAdapter = MainAdapter(this, modelMain)

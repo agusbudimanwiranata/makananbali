@@ -21,6 +21,7 @@ class DetailActivity : AppCompatActivity() {
     lateinit var bahanbaku: String
     lateinit var deskripsi: String
     lateinit var review: String
+    lateinit var lokasi: String
     lateinit var modelMain: ModelMain
 
     @SuppressLint("SetTextI18n")
@@ -54,6 +55,7 @@ class DetailActivity : AppCompatActivity() {
             bahanbaku = modelMain.bahanbaku
             deskripsi = modelMain.deskripsi
             review = modelMain.review
+            lokasi = modelMain.lokasi
 
             Glide.with(this)
                 .load(modelMain.image)
@@ -65,6 +67,7 @@ class DetailActivity : AppCompatActivity() {
             tvDeskripsi.setText(deskripsi)
             tvBahan.setText(bahanbaku)
             tvReview.setText(review)
+            tvLokasi.setText(lokasi)
         }
     }
 

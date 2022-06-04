@@ -12,5 +12,6 @@ class ModelMain : Serializable {
     lateinit var deskripsi: String
     lateinit var review: String
     lateinit var image: String
+    lateinit var lokasi: String
 
 }
